@@ -1,3 +1,3 @@
 num1=input("enter num;")
 num2=input("enter another num;")
-print("Sum of the numbers =",float(num1)+float(num2))
+print("Sum of the numbers =",int(num1)+int(num2))
